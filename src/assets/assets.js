@@ -9,7 +9,7 @@ import flower_6 from "./img-6.jpg";
 import flower_7 from "./img-7.jpg";
 import flower_8 from "./img-8.jpg";
 import flower_9 from "./img-9.jpg";
-import logo from "./logo.png";
+import logo from "./Logo.png";
 import about from "./about.png";
 import add_icon_white from "./add_icon_white.png"
 import add_icon_green from "./add_icon_green.png"
