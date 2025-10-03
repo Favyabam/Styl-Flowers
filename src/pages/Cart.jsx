@@ -17,6 +17,7 @@ const Cart = () => {
       }
     });
 
+
      message += ` Total: ₦${total}`;
      const encodedMessage = encodeURIComponent(message);
      const phoneNumber = "2349016517432";
